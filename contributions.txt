@@ -1,0 +1,28 @@
+Conceptual Contribution:
+
+Front End Design : Rohit Girijan Kunjilikattil and Nihal Surendra Parchand
+
+CryptDB Server :  Nihal Surendra Parchand and Vishvesh Karwa
+
+Hippocratic Database : Vishvesh Karwa and Rohit Girijan Kunjilikattil
+
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+
+Code Contribution:
+
+
+Vishvesh Karwa (Back End Focus):
+MySQL Database and Python code
+
+-----------------------------------------------------------------------------------------
+
+Rohit Girijan Kunjilikattil(Front End Focus):
+
+HTML and CSS code
+
+----------------------------------------------------------------------------------------
+
+Nihal Surendra Parchand (Front End Focus):
+
+HTML and CSS code
